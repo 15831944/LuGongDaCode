@@ -1,0 +1,15 @@
+{
+  "device addr": null,
+  "device_id": "transmitter",
+  "udp_port": 8773,
+  "send_file_dir": ".",
+  "recv_file_dir": ".",
+  "ntp_server_ip": null,
+  "tx_subdev_spec": null,
+  "rx_subdev_spec": null,
+  "clock_source": "internal",
+  "test": true,
+  "host": "127.0.0.1",
+  "up_freq": 838e6,
+  "down_freq": 975e6
+}
